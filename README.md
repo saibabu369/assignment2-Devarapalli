@@ -24,4 +24,16 @@ McDonals's located in **Forum Mall** and the famous place near to mall is **Art 
 
 # using aboutme link
 
- [Google](https://github.com/saibabu369/assignment2-Devarapalli/blob/main/AboutMe.md)     
+[Google](https://github.com/saibabu369/assignment2-Devarapalli/blob/main/AboutMe.md)    
+
+---
+
+# Creating a sports
+
+| sports | location | payment |
+| --- | --- | ---: |
+| reck | reck hub | 10 |
+| nba | nba stand | 20 |
+| tennis | court hub | 30 |
+
+

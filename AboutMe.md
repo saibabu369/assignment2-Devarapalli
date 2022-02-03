@@ -3,4 +3,4 @@ Hi, my name Sai Babu, I am doing masters in North west Missouri State University
 
 # image Link
 
-[Goohle](https://github.com/saibabu369/assignment2-Devarapalli/blob/main/image1.jpeg)
+[Google](https://github.com/saibabu369/assignment2-Devarapalli/blob/main/image1.jpeg)
