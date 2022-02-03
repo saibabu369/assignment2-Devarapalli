@@ -36,4 +36,14 @@ McDonals's located in **Forum Mall** and the famous place near to mall is **Art 
 | nba | nba stand | 20 |
 | tennis | court hub | 30 |
 
+---
+# using pithy quotes
+
+> the purpose of our life is to be happy
+
+*Lama*
+
+> be the change you want to see in the world
+
+*Gandhi*
 
