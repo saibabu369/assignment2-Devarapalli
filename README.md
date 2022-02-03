@@ -14,4 +14,3 @@ McDonals's located in **Forum Mall** and the famous place near to mall is **Art 
  * The destination there is a  Art Gallery
  * next building is Forum Mall
  
- 
