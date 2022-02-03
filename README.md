@@ -7,10 +7,11 @@ McDonals's located in **Forum Mall** and the famous place near to mall is **Art 
 
 ---
 
-# Sai Babu Devarapalli
+# Way to Mall
 # Hyderabad International Airport
  * Book a cab
  * reach the destination
  * The destination there is a  Art Gallery
  * next building is Forum Mall
+ 
  
